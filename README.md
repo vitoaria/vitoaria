@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vitoaria
-- 👀 I’m interested in health, tech and data science!
-- 🌱 I’m currently learning R, SQL & Python!
-- 💞️ I’m looking to collaborate on projects that intersect on health and tech!
+- 👀 What's up?
+- 🌱 Learning R, Python, SQL, SAS + more
 - 📫 How to reach me: @vitoharia on most places!
 
 <!---
